@@ -5,7 +5,7 @@ import { ArrowRight } from 'lucide-react';
 import { AnimateOnScroll } from '../animate-on-scroll';
 import { TypingText } from '../typing-text';
 
-const PROFILE_PICTURE_PATH = `/assets/puneeth.jpeg?v=1`;
+const PROFILE_PICTURE_PATH = `/assets/puneeth.jpeg`;
 
 export function HeroSection() {
   return (

@@ -15,6 +15,11 @@ const nextConfig: NextConfig = {
         hostname: 'placehold.co',
       },
     ],
+    localPatterns: [
+      {
+        pathname: '/assets/**',
+      },
+    ],
   },
 };
 
